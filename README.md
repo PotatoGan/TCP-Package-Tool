@@ -16,11 +16,7 @@ BUUUUT
 For now, programming is ongoing, all functions above haven't complete yet.
 
 
-Writen by: 周大干 Zhou Dagan
-
-           赵铁柱 Zhao Tiezhu
-           
-           析念 Xinian
+Writen by: 周大干 Zhou Dagan 赵铁柱 Zhao Tiezhu 析念 Xinian
            
 Contact us: 2018310722@bipt.edu.cn
 
